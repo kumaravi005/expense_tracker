@@ -1,7 +1,7 @@
 # 💰 Personal Expense Tracker
 
 A complete, beginner-friendly Python project that helps you track, analyze, and visualize your personal expenses. Built with clean code principles and designed for internship-level quality.
-
+  
 ## 📋 Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
@@ -14,7 +14,7 @@ A complete, beginner-friendly Python project that helps you track, analyze, and 
 ---
 
 ## ✨ Features
-
+ 
 ### Core Features
 - ✅ **Add Expenses** - Record date, category, amount, and notes
 - ✅ **CSV Storage** - Data persists in CSV format (easy to understand and share)
@@ -614,5 +614,6 @@ This project is open source and available for educational purposes.
 **Happy Tracking! 💰**
 
 *Built with ❤️ for beginners ready to learn internship-level Python*
-#   e x p e n s e _ t r a c k e r  
+#   e x p e n s e _ t r a c k e r 
+ 
  
