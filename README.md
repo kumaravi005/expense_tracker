@@ -1,7 +1,6 @@
 # 💰 Personal Expense Tracker
 
-A complete, beginner-friendly Python project that helps you track, analyze, and visualize your personal expenses. Built with clean code principles and designed for internship-level quality.
-
+A complete, beginner-friendly Python project that helps you track, analyze, and visualize your personal expenses.
 ## 📋 Table of Contents
 
 - [Features](#features)
